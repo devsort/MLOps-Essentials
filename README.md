@@ -1,4 +1,4 @@
-## How to Take MLOps Zoomcamp
+## How to Take MLOps-Essentials
 
 ### 2025 Cohort
 - **Start Date**: May 5, 2025
